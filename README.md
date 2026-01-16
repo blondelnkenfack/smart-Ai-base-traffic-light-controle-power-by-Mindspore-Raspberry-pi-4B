@@ -1,4 +1,4 @@
-# Smart AI Traffic Light Control (MindSpore)
+# Smart AI base Traffic Light Control (MindSpore)
 
 This project implements a smart traffic light control system using the **MindSpore** framework on a **Raspberry Pi 4B**. It uses **YOLOv5** to detect traffic density and dynamically adjust traffic lights to reduce waiting time and prioritize emergency vehicles.
 
@@ -44,3 +44,4 @@ This project implements a smart traffic light control system using the **MindSpo
 *   `model/`: Contains MindSpore YOLOv5 definitions.
 *   `train.py`: Script to train the model on my PC.
 *   `core/traffic_manager.py`: The logic brain for traffic decisions.
+
