@@ -1,0 +1,2 @@
+# smart-Ai-base-traffic-light-controle-power-by-Mindspore-Raspberry-pi-4B
+ Implementation Plan Goal Description Build a "Smart AI Traffic Light Control" system using the MindSpore framework. The system will simulate traffic flow, detect vehicle density (Cars/Trucks) using a YOLOv5-based architecture (simulated or placeholder for integration), and dynamically adjust traffic lights to prioritize lanes with higher density.
